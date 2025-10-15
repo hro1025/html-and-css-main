@@ -1,0 +1,94 @@
+* {
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.imgcsgo {
+  max-width: 80%;
+  margin-top: 20px;
+}
+.imgoverwatch {
+  max-width: 97%;
+  margin-top: 10px;
+}
+.imgcod {
+  max-width: 38%;
+  margin-top: 10px;
+  width: 250;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+h3 {
+  font-size: 26px;
+}
+ {
+  font-size: 20px;
+}
+
+.game1 {
+  width: 800px;
+  border: 2px solid black;
+  background-color: hsl(220, 35%, 10%);
+  color: #fff;
+  margin-inline: auto;
+  display: flex;
+  border-radius: 10px;
+  box-shadow: 8px 1px 10px 1px #858585;
+  padding: 20px;
+}
+.game2 {
+  width: 800px;
+  border: 2px solid black;
+  background-color: hsl(220, 35%, 10%);
+  color: #fff;
+  margin-inline: auto;
+  display: flex;
+  border-radius: 10px;
+  box-shadow: 8px 1px 10px 1px #858585;
+  padding: 20px;
+}
+
+.game3 {
+  width: 800px;
+  border: 2px solid black;
+  background-color: hsl(220, 35%, 10%);
+  color: #fff;
+  margin-inline: auto;
+  display: flex;
+  border-radius: 10px;
+  box-shadow: 8px 1px 10px 1px #858585;
+  padding: 20px;
+}
+
+.gametext1 {
+  text-align: left;
+}
+
+.gameinfo1 {
+  text-align: left;
+}
+.gametext2 {
+  text-align: left;
+  margin-left: 80px;
+}
+
+.gameinfo2 {
+  text-align: left;
+}
+
+.gametext3 {
+  text-align: left;
+  margin-left: -500px;
+}
+
+.gameinfo3 {
+  text-align: left;
+}
